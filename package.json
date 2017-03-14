@@ -1,9 +1,9 @@
 {
-  "name": "languageserver-omnisharp",
+  "name": "languageserver-csharp",
   "main": "./lib/main",
   "version": "0.1.0",
   "description": "Provide C# language support via the Omnisharp Language Server",
-  "repository": "https://github.com/atom/languageserver-omnisharp",
+  "repository": "https://github.com/atom/languageserver-csharp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
@@ -12,7 +12,7 @@
     "language-csharp:grammar-used"
   ],
   "dependencies": {
-    "atom-languageclient": "^0.1.0",
+    "atom-languageclient": "git://github.com/atom/atom-languageclient.git",
     "omnisharp-client": "^7.0.4"
   },
   "providedServices": {
