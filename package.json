@@ -8,12 +8,9 @@
   "engines": {
     "atom": ">=1.13.0"
   },
-  "activationHooks": [
-    "language-csharp:grammar-used"
-  ],
   "dependencies": {
     "atom-languageclient": "git://github.com/atom/atom-languageclient.git",
-    "omnisharp-client": "^7.0.4"
+    "omnisharp-client": "^7.0.6"
   },
   "providedServices": {
     "autocomplete.provider": {
