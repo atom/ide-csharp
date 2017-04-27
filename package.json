@@ -6,7 +6,7 @@
   "repository": "https://github.com/atom/languageserver-csharp",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.13.0"
+    "atom": ">=1.17.0"
   },
   "dependencies": {
     "atom-languageclient": "git://github.com/atom/atom-languageclient.git",
