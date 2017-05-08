@@ -12,15 +12,22 @@
     "atom-languageclient": "git://github.com/atom/atom-languageclient.git",
     "omnisharp-client": "^7.0.6"
   },
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "2.0.0": "consumeLinterV2"
+      }
+    },
+    "nuclide-datatip.provider": {
+      "versions": {
+        "0.0.0": "consumeDatatip"
+      }
+    }
+  },
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
         "2.0.0": "provideAutocomplete"
-      }
-    },
-    "linter": {
-      "versions": {
-        "1.0.0": "provideLinter"
       }
     },
     "nuclide-outline-view": {
@@ -36,6 +43,11 @@
     "hyperclick.provider": {
       "versions": {
         "0.0.0": "provideHyperclick"
+      }
+    },
+    "nuclide-find-references.provider": {
+      "versions": {
+        "0.0.0": "provideFindReferences"
       }
     }
   }
