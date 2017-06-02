@@ -9,7 +9,7 @@
     "atom": ">=1.17.0"
   },
   "dependencies": {
-    "atom-languageclient": "git://github.com/atom/atom-languageclient.git",
+    "atom-languageclient": "^0.1.0",
     "omnisharp-client": "^7.0.6"
   },
   "consumedServices": {
@@ -30,9 +30,9 @@
         "2.0.0": "provideAutocomplete"
       }
     },
-    "nuclide-outline-view": {
+    "nuclide-code-format.provider": {
       "versions": {
-        "0.0.0": "provideOutlines"
+        "0.0.0": "provideCodeFormat"
       }
     },
     "nuclide-definition-provider": {
@@ -40,14 +40,14 @@
         "0.0.0": "provideDefinitions"
       }
     },
-    "hyperclick.provider": {
-      "versions": {
-        "0.0.0": "provideHyperclick"
-      }
-    },
     "nuclide-find-references.provider": {
       "versions": {
         "0.0.0": "provideFindReferences"
+      }
+    },
+    "nuclide-outline-view": {
+      "versions": {
+        "0.0.0": "provideOutlines"
       }
     }
   }
