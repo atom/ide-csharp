@@ -1,9 +1,9 @@
 {
-  "name": "languageserver-csharp",
+  "name": "ide-csharp",
   "main": "./lib/main",
   "version": "0.1.0",
-  "description": "Provide C# language support via the Omnisharp Language Server",
-  "repository": "https://github.com/atom/languageserver-csharp",
+  "description": "C# language support for Atom-IDE",
+  "repository": "https://github.com/atom/ide-csharp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.17.0"
