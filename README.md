@@ -1,5 +1,5 @@
 # IDE-CSharp package
-[![macOS Build Status](https://travis-ci.org/atom/ide-csharp.svg?branch=master)](https://travis-ci.org/atom/ide-csharp) [![Windows Build Status](https://ci.appveyor.com/api/projects/ide-csharp/settings/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/ide-csharp/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-csharp.svg)](https://david-dm.org/atom/ide-csharp)
+[![macOS Build Status](https://travis-ci.org/atom/ide-csharp.svg?branch=master)](https://travis-ci.org/atom/ide-csharp) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/txnainm2sfa365pi?svg=true)](https://ci.appveyor.com/project/Atom/ide-csharp/branch/master) [![Dependency Status](https://david-dm.org/atom/ide-csharp.svg)](https://david-dm.org/atom/ide-csharp)
 
 C# language support for Atom-IDE, powered by the [Omnisharp Language Server](https://github.com/OmniSharp/omnisharp-node-client).
 
