@@ -2,7 +2,7 @@
   "name": "ide-csharp",
   "main": "./lib/main",
   "version": "0.1.0",
-  "description": "C# language support for Atom-IDE",
+  "description": "C# language support for Atom-IDE.",
   "repository": "https://github.com/atom/ide-csharp",
   "license": "MIT",
   "engines": {
