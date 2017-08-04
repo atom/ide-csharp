@@ -9,8 +9,8 @@
     "atom": ">=1.18.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.1.0",
-    "omnisharp-client": "^7.0.6"
+    "atom-languageclient": "^0.1.4",
+    "omnisharp-client": "^7.0.7"
   },
   "consumedServices": {
     "linter-indie": {
