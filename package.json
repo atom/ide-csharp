@@ -12,6 +12,9 @@
     "atom-languageclient": "^0.1.4",
     "omnisharp-client": "^7.0.7"
   },
+  "enhancedScopes": [
+    "source.cs"
+  ],
   "consumedServices": {
     "linter-indie": {
       "versions": {
