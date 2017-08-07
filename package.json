@@ -9,7 +9,7 @@
     "atom": ">=1.18.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.1.4",
+    "atom-languageclient": "^0.2.0",
     "omnisharp-client": "^7.0.7"
   },
   "enhancedScopes": [
