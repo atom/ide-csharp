@@ -6,11 +6,11 @@
   "repository": "https://github.com/atom/ide-csharp",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.18.0"
+    "atom": ">=1.19.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.2.0",
-    "omnisharp-client": "^7.0.7"
+    "atom-languageclient": "^0.4.0",
+    "omnisharp-client": "^7.1.0"
   },
   "enhancedScopes": [
     "source.cs"
