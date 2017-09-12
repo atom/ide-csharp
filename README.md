@@ -3,6 +3,9 @@
 
 C# language support for Atom-IDE, powered by the [Omnisharp Language Server](https://github.com/OmniSharp/omnisharp-node-client).
 
+## Early access
+This package is currently an early access release.  You should also install the [atom-ide-ui](https://atom.io/packages/atom-ide-ui) package to expose the functionality within Atom.
+
 ## Contributing
 Always feel free to help out!  Whether it's [filing bugs and feature requests](https://github.com/atom/languageserver-csharp/issues/new) or working on some of the [open issues](https://github.com/atom/languageserver-csharp/issues), Atom's [contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) will help get you started while the [guide for contributing to packages](https://github.com/atom/atom/blob/master/docs/contributing-to-packages.md) has some extra information.
 
