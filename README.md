@@ -3,6 +3,8 @@
 
 C# language support for Atom-IDE, powered by the [Omnisharp Language Server](https://github.com/OmniSharp/omnisharp-node-client).
 
+**Requires [Atom 1.21](https://atom.io/beta) - currently in beta**
+
 ![Screen shot of IDE-CSharp](https://user-images.githubusercontent.com/118951/30307350-760ff6f8-9732-11e7-95e8-639845b51153.png)
 
 ## Early access
