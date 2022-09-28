@@ -1,4 +1,5 @@
-# IDE-CSharp package
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # IDE-CSharp package
 [![CI](https://github.com/atom/ide-csharp/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/ide-csharp/actions/workflows/ci.yml)
 C# language support for Atom-IDE, powered by the [Omnisharp Language Server](https://github.com/OmniSharp/omnisharp-node-client).
 
